@@ -1,0 +1,528 @@
+Timestamp,Email Address,Your Name (This will be printed on your certificate),Postal Address with Pin Code (You will receive your course certificate on this address),Mobile Number (For further communication),Seat Number,Q. 1),Q.2) ,Q.3) ,Q.4) ,Q.5) ,Q.6) ,Q. 7) ,Q. 8) ,Q. 9) ,Q. 10) ,Q. 11) ,Q. 12) ,Q. 13) ,Q. 14),Q. 15) ,Q. 16) ,Q. 17) ,Q. 18) ,Q. 19) ,Q. 20) ,Q. 21) ,Q. 22) 
+4/1/2023 19:29:42,komosa10@gmail.com,Komal Salvi,"C-107, GreenCounty Phase 2, Fursungi, Pune - 412308",917428670417,73,B,B,D,A,C,D,C,C,A,D,C,B,B,A,B,D,B,C,D,D,"Through Artificial Intelligence (AI), machines are trained to think and act like human beings. It is basically a process by which human intelligence is put to use through machines. It helps in automating human cognitive work. 
+Computational linguistics is a wider concept, which uses artificial intelligence and human linguistic intelligence to facilitate the interaction between humans and computers. NAtural language processing draws from all these three fields  namely- computational linguistics , artificial intelligence and machine learning. ","Web scrapping - is the process of collecting data from websites using an automated programme. Some websites do not allow web scrapping to third party because of data protection issues.
+
+Tokenization - is the process of breaking down the data into samller parts for better analytical purpose. It is the first phase in Natural language processing.
+
+Stopword removal - stopwords are those words without which the sentence can be comprehended. Hence, they are not required during the analytical process. somw of the stopwords are - the, and.
+
+NER tagging - NAme Entity Recognition tagging
+used while giving pop culture referenes in the text. Example of NER is location or name of  a person
+
+POS tagging - is a process in NLP by which parts of speech like adjective, noun or verb are explained to the system. "
+4/1/2023 19:30:29,nikhilhparanjape@gmail.com,Nikhil Hemant Paranjape,"1974, 'Uma-Nivas', Sadashiv Peth Pune 411030",9850829794,75,C,B,D,A,A,A,D,C,B,C,B,C,B,D,C,D,B,C,A,D,"Artificial intelligence is a branch of computer programming where in computer algorithm is designed in such a way that it gets upgrade by itself. One of the most useful application is natural language processing where in program becomes intelligent enough by experience and tokenization, lemmatation, stemmatation and word analysis and pattern analysis using natural language tool kit and pandas becomes advanced. It involves machine learning and deep learning. computers are programmed such that they exhibit behavior of human intelligence.
+It uses certain statistical methods and algorithms","1)Web scrapping- It is getting real time data from a website and make it into format such that it can be analyzed further
+2) Tokenization-  It is splitting up of words from a sentence or letters from words, It can be based on without punctuation marks or after changing case, removing digits etc. Basically its splitting into smaller possible units for further analysis
+3) Stopword removal-  It is process of removing words which occur frequently in a sentence like is, the or at etc. These words are called as stopwords.
+4) NER Tagging-  NER is named entity tagging. It is used to find out real world names i.e particular values of names of persons, organization, name of place etc.
+5) POS tagging- It is tagging or identifying words based of grammar rules like part of speech
+which helps to proper interpretation of sentence within the given context."
+4/1/2023 19:33:02,suchi.singha03@gmail.com,Suchismita Singha,"238 maniktala main road,surendranath co operative housing society, oppsite of bagmari market, pin- 700054, flat - 60",7477695883,83,C,B,C,D,D,A,A,A,B,A,B,A,B,D,C,A,B,C,A,A,"Artificial Intelligence is the ability of a computer program to learn and think. John McCarthy coined the term ‘Artificial Intelligence’ in the 1950s. He said, ‘Every aspect of learning or any other feature of intelligence can in principle be so precisely described that a machine can be made to simulate it. An attempt will be made to find how to make machines use language, form abstractions, and concepts, solve kinds of problems now reserved for humans, and improve themselves.
+natural language processing is considered a subset of machine learning while NLP and ML both fall under the larger category of artificial intelligence.
+Natural Language Processing combines Artificial Intelligence (AI) and computational linguistics so that computers and humans can talk seamlessly.
+NLP endeavours to bridge the divide between machines and people by enabling a computer to analyse what a user said (input speech recognition) and process what the user meant. This task has proven quite complex.To converse with humans, a program must understand syntax (grammar), semantics (word meaning), and morphology (tense), pragmatics (conversation). The number of rules to track can seem overwhelming and explains why earlier attempts at NLP initially led to disappointing results.With a different system in place, NLP slowly improved moving from a cumbersome-rule based to a pattern learning based computer programming methodology. Siri appeared on the iPhone in 2011. In 2012, the new discovery of use of graphical processing units (GPU) improved digital neural networks and NLP.NLP empowers computer programs to comprehend unstructured content by utilizing AI and machine learning to make derivations and give context to language, similarly as human brains do. It is a device for revealing and analysing the “signals” covered in unstructured information. Organizations would then be able to get a deeper comprehension of public perception around their products, services and brand, just as those of their rivals.
+Now Google has released its own neural-net-based engine for eight language pairs, closing much of the quality gap between its old system and a human translator and fuelling increasing interest in the technology. Computers today can already produce an eerie echo of human language if fed with the appropriate material.
+Over the past few years, Deep Learning (DL) architectures and algorithms have made impressive advances in fields such as image recognition and speech processing.
+Their application to Natural Language Processing (NLP) was less impressive at first, but has now proven to make significant contributions, yielding state-of-the-art results for some common NLP tasks. Named entity recognition (NER), part of speech (POS) tagging or sentiment analysis are some of the problems where neural network models have outperformed traditional approaches.","Web scraping is an automated method used to extract large amounts of data from websites. The data on the websites are unstructured. Web scraping helps collect these unstructured data and store it in a structured form. There are different ways to scrape websites such as online Services, APIs or writing your own code. In this article, we’ll see how to implement web scraping with python. 
+
+Tokenization is a data science technique that breaks up the words in a sentence into a comma separated list of distinct words or values. It’s a crucial first step in preprocessing text data during Natural Language Processing or NLP.Before you can run most NLP machine learning techniques, you’ll usually need to use tokenize your data. In this quick project, I’ll show you how you can use Python’s Natural Language Toolkit (NLTK) to take text data from a Pandas dataframe and return a tokenized list of words using the punkt tokenizer.
+
+A stop word is a commonly used word (such as “the”, “a”, “an”, “in”) that a search engine has been programmed to ignore, both when indexing entries for searching and when retrieving them as the result of a search query. We would not want these words to take up space in our database, or taking up valuable processing time. For this, we can remove them easily, by storing a list of words that you consider to stop words. NLTK(Natural Language Toolkit) in python has a list of stopwords stored in 16 different languages.import nltk
+from nltk.corpus import stopwords
+set(stopwords.words('english'))
+
+Named Entity Recognition (NER) is a standard NLP problem which involves spotting named entities (people, places, organizations etc.) from a chunk of text, and classifying them into a predefined set of categories. Some of the practical applications of NER include: Scanning news articles for the people, organizations and locations reported.
+Providing concise features for search optimization: instead of searching the entire content, one may simply search for the major entities involved.
+Quickly retrieving geographical locations talked about in Twitter posts.
+
+It is a process of converting a sentence to forms – list of words, list of tuples (where each tuple is having a form (word, tag)). The tag in case of is a part-of-speech tag, and signifies whether the word is a noun, adjective, verb, and so on.In natural language processing (NLP), there is a similar task called POS tagging, where the aim is to tag each word in a sentence to the correct part of speech (POS). POS tagging is a disambiguation task. A word can have multiple POS tags; the goal is to find the right tag given the current context. For example, the work left can be a verb when used as ‘he left the room’ or a noun when used as ‘left of the room’.POS tagging is coded in the form of rules. These rules may be either −
+Context-pattern rulesOr, as Regular expression compiled into finite-state automata, intersected with lexically ambiguous sentence representation.We can also understand Rule-based POS tagging by its two-stage architecture −
+First stage − In the first stage, it uses a dictionary to assign each word a list of potential parts-of-speech.Second stage − In the second stage, it uses large lists of hand-written disambiguation rules to sort down the list to a single part-of-speech for each word."
+4/1/2023 19:36:48,shraddhagadre2001@gmail.com,Shraddha Anant Gadre,"B-14, 21 Vishrant co-operative housing society, vishrantwadi 411015",9307986205,80,B,B,D,A,C,D,D,C,B,C,C,B,B,D,B,D,B,C,B,A,"Artificial intelligence is the simulation of human intelligence processes by machines, especially computer systems. Specific applications of AI include expert systems, natural language processing, speech recognition and machine vision. Natural language processing (NLP) is a branch of artificial intelligence within computer science that focuses on helping computers to understand the way that humans write and speak. As an interdisciplinary field, CL combines linguistics with computer science and artificial intelligence (AI) and is concerned with understanding language from a computational perspective. Computers that are linguistically competent help facilitate human interaction with machines and software. ","b. Tokenization is a process by which a sentence can be generated in tokens.
+sent = 'Hello friends!'
+from nltk.tokenize import word_tokenize
+word_tokenize
+
+a. Web scrapping is a process of using bots to extract content and data from website.
+import urllib
+url= urllib.request.urlopen(name of the site)
+data=url.read()
+print(data)
+from bs4 import BeautifulSoup
+Soup = BeautifulSoup(data, 'lxml')
+text = soup.get_text()
+
+ d. Python Named Entity Recognition is the process of NLP which deals with identifying and classifying named entities. The raw and structured text is taken and named entities are classified into persons, organizations, places, money, time, etc.
+import spacy
+
+# Load the English language model in spaCy
+nlp = spacy.load(""en_core_web_sm"")
+
+# Define a sample text for NER
+text = ""Steve Jobs was the co-founder of Apple Inc. He was born in San Francisco, California in 1955.""
+
+# Process the text using spaCy
+doc = nlp(text)
+
+# Print the entities found in the text and their labels
+for ent in doc.ents:
+    print(ent.text, ent.label_) 
+c. It is used for removing stop words from the sentence.
+from nltk.corpus import stopwords
+sword = stopwords.words('english)
+swords.
+e. Part-of-speech (POS) tagging is the process of marking each word in a text with its corresponding part of speech, such as noun, verb, adjective, or adverb. 
+
+import nltk
+from nltk.tokenize import word_tokenize
+from nltk import pos_tag
+
+text = ""I am learning natural language processing with Python.""
+
+# Tokenize the text into words
+tokens = word_tokenize(text)
+
+# Perform POS tagging on the tokens
+tagged_tokens = pos_tag(tokens)
+
+# Print the tagged tokens
+print(tagged_tokens) 
+[('I', 'PRP'), ('am', 'VBP'), ('learning', 'VBG'), ('natural', 'JJ'), ('language', 'NN'), ('processing', 'NN'), ('with', 'IN'), ('Python', 'NNP'), ('.', '.')] 
+
+
+"
+4/1/2023 19:37:57,sapanapawar122@gmail.com,Sapana Vasant Hushare,"Flat No A1104, Durvankur Residency, Radheshwari nagari,Bakori Road, Near JSPM collage, Wagholi, Pune 412207.",8421804130,78,B,B,D,A,B,D,D,C,B,C,B,B,B,A,B,B,B,C,B,D,"Artificial intelligence is a field which combines computer science and robust datasets to enable problem-solving. It also encompasses sub-fields of machine learning and deep learning, which are frequently mentioned in conjunction with artificial intelligence. These disciplines are comprised of AI algorithms which seek to create expert systems which make predictions or classifications based on input data.
+            Computational linguistics is used in tools like instant machine translation, speech recognition systems, text-to-speech synthesizers, interactive voice response systems, search engines, text editors and language instruction materials. ","A.Web Scraping: Web Scrapers can extract all the data on particular sites or the specific data that a user wants. Ideally, it’s best if you specify the data you want so that the web scraper only extracts that data quickly. For example, you might want to scrape an Amazon page for the types of juicers available, but you might only want the data about the models of different juicers and not the customer reviews.
+import requests
+from bs4 import BeautifulSoup
+
+url = 'https://en.wikipedia.org/wiki/Python_(programming_language)'
+response = requests.get(url)
+
+soup = BeautifulSoup(response.text, 'html.parser')
+
+# Print the page title
+print(soup.title.text)
+
+# Find all the links in the page
+for link in soup.find_all('a'):
+    print(link.get('href'))
+
+B.Tokenization: Tokenization is the process of splitting a text into tokens or words. Python provides several libraries such as NLTK, SpaCy, etc.
+
+mport nltk
+nltk.download('punkt')
+
+text = ""This is a sample sentence. Tokenization is the process of splitting a text into tokens or words.""
+tokens = nltk.word_tokenize(text)
+
+print(tokens)
+
+C.Stopword Removal:Stopwords are words that are commonly used in a language and are not useful in text analysis.
+import nltk
+nltk.download('stopwords')
+from nltk.corpus import stopwords
+
+text = ""This is a sample sentence. Stopwords are not useful in text analysis.""
+stop_words = set(stopwords.words('english'))
+
+tokens = nltk.word_tokenize(text)
+
+filtered_tokens = [word for word in tokens if not word.lower() in stop_words]
+
+print(filtered_tokens)
+
+D.NER Tagging: Named Entity Recognition (NER) is the process of identifying and classifying named entities in text into predefined categories such as person, organization, location, etc.
+
+import spacy
+
+nlp = spacy.load(""en_core_web_sm"")
+
+text = ""Apple is looking at buying U.K. startup for $1 billion""
+
+doc = nlp(text)
+
+for ent in doc.ents:
+    print(ent.text, ent.label_)
+
+E.POS Tagging: Part-of-Speech (POS) tagging is the process of identifying and tagging each word in a text with its corresponding part of speech such as noun, verb, adjective.
+
+import nltk
+nltk.download('averaged_perceptron_tagger')
+
+text = ""This is a sample sentence. POS tagging is the process of identifying and tagging each word in a text with its corresponding part of speech.""
+
+tokens = nltk.word_tokenize(text)
+
+tagged_tokens = nltk.pos_tag(tokens)
+
+print(tagged_tokens)"
+4/1/2023 19:38:01,anupriyajha001@gmail.com,Anupriya,"Bren Avalon, J-302, Chhinappanhalli main road, Doddenakundi, Bangalore, Karnataka, Pin No.- 560048",8789812003,68,D,B,B,A,D,D,A,C,C,C,A,B,A,C,A,B,B,B,A,C,"Artificial intelligence is the simulation of human intelligence processes by machines, especially computer systems. Specific applications of AI include expert systems, natural language processing, speech recognition and machine vision. Natural language processing(NLP)is about developing the applications and services that are able to understand the human languages and computation linguistics is a part from where we collect all the grammatical meanings. 
+     In which computational linguistics (CL) is the application of computer science to the analysis and comprehension of written and spoken language and Natural Language Processing(NLP) helps in programmatically in AI. As an interdisciplinary field, CL combines linguistics with computer science and artificial intelligence (AI) and is concerned with understanding language from a computational perspective.","a. Web Scraping:-  Web scraping is an automated method used to extract large amounts of data from websites. The data on the websites are unstructured. Web scraping helps collect these unstructured data and store it in a structured form. 
+
+b. Tokenization:- Tokenization is a process means spliting the bigger a bigger part to small part. for example, a bank account number, with a non-sensitive substitute, known as a token. The token is a randomized data string that has no essential or exploitable value or meaning.
+
+c. Stopword Removal:- Stop word removal is one of the most commonly used preprocessing steps across different NLP. It is use to remove the words that occur commonly across all the documents in the corpus. 
+
+d. NER Tagging:- Name Entities Recognition(NER) named entity recognition, you can
+find the named entities in your texts and also determine what kind of named entity
+they are.
+
+e. POS Tagging:- Part-of-speech (POS) tagging is the process of assigning a word to its grammatical category, in order to understand its role within the sentence. Traditional parts
+of speech are nouns, verbs, adverbs, conjunctions, etc."
+4/1/2023 19:40:18,d.shreya06@gmail.com,Shreya Datta,"Shreya Datta
+K 2-B, Second Floor
+Kalkaji, New Delhi
+Pin-110019",9051306611,81,B,D,D,A,C,A,D,C,B,D,C,B,D,A,B,A,B,C,C,D,"Artificial Intelligence (AI)refers to the simulation of human intelligence in machines such that they are programmed think like humans and mimic their actions. Such their the skills of the machine involve learning and problem solving like human cognitive sysytem. Computational Linguistics combines linguistics, computer science and AI to analyse and comprehend written and spoken language to facilitate human interaction with machines.
+Natural Language Processing (NLP) is a branch of artificial intelligence (AI) that focuses on the interaction between computers and human language. The main goal of NLP is to enable computers to understand, interpret, and generate human language.","a. Web scraping is the process of extracting data from websites using automated tools or scripts. It involves parsing the HTML content of a web page and extracting the relevant data from it. Web scraping is commonly used for data mining, research, and monitoring.
+For example, if you want see of frequency of top 10 occuring words in a website. You can use web scraping tools like Beautiful Soup to extract the words from the website and store them in a structured format for further analysis.
+b.Tokenization is the process of breaking a text into individual words or tokens. Tokenization can be performed using various techniques, such as whitespace tokenization, sentence tokenization, or word tokenization.
+For example, let's say you have a sentence ""The girl jumped over the fence."" The tokenization of this sentence would result in the following tokens: ""The"", ""girl"", ""jumped"", ""over"", ""the"", ""fence"".
+c. Stop word removal is the process of removing stop words like in, on, the to analyse text
+d. NER tagging is the process to extract named entities like place, name of person, time, date, etc and assign them to predefined classes like Name, Place, Date, etc. from the available text 
+d.POS tagging or Part of Speech tagging is the process of categorizing a word in a text into a particular part of speech based on definition and context.
+e.g. In a sentence, 'Ram is going home'. Ram is a Proper Noun, Is- auxiliary verb, going-Main Verb, home-Common Noun"
+4/1/2023 19:44:43,sneha.bitan@gmail.com,SNEHA GHOSH,"16/2/1-A, BAGHBAZAR STREET. ANANDA CHATTERJEE LANE. KOLKATA-700003",+91 6291692415,82,B,B,D,A,B,D,D,C,B,C,B,B,B,A,B,B,B,C,B,D,"Artificial Intelligence (AI) is the simulation of human intelligence in machines that are programmed to think and act like humans. AI involves developing intelligent algorithms, models, and systems that can perceive, learn, reason, and make decisions in a way that is similar to human intelligence. The goal of AI is to create intelligent machines that can perform tasks that typically require human intelligence, such as visual perception, speech recognition, decision-making, and language translation.
+
+Computational linguistics (CL) is a subfield of AI that deals with the development of algorithms and models for processing and analyzing human language. It focuses on the use of computational methods to understand, generate, and manipulate natural language. Natural Language Processing (NLP) is a subfield of CL that deals specifically with the development of algorithms and models for processing and analyzing human language data, such as text and speech.
+
+NLP is closely related to AI because it involves the development of intelligent systems that can understand and interpret human language. NLP algorithms and models are used in a variety of applications, such as sentiment analysis, text classification, machine translation, and speech recognition. NLP is used to build chatbots and other conversational agents that can interact with humans in natural language.","a. Web Scraping:
+Web scraping is a kind of process where data from websites gets extracted. We can use the Python programming language to extract data from websites using libraries like Beautiful Soup. Below is an example of web scraping using Beautiful Soup to extract the title and body of a webpage:
+
+import urllib
+url = urllib.request.urlopen('https://en.wikipedia.org/wiki/Kolkata')
+data = url.read()
+print(data)
+from bs4 import BeautifulSoup
+soup = BeautifulSoup(data,'lxml')
+text = soup.get_text()
+print(text)
+
+
+
+b. Tokenization:
+Tokenization is the process of breaking a text into individual words or tokens. We can use the Natural Language Toolkit (NLTK) library in Python to perform tokenization. Below is an example of tokenization using the NLTK library.
+
+pip install pip -U
+import nltk
+nltk.download()
+from nltk.tokenize import word_tokenize
+sent = ""Hi friends! How are you? Welcome to Python Programming.""
+words = word_tokenize(sent)
+words
+output be like: ['How',
+ 'friends',
+ '!',
+ 'How',
+ 'are',
+ 'you',
+ '?',
+ 'Welcome',
+ 'to',
+ 'Python',
+ 'Programming',
+ '.']
+
+
+c. Stopword Removal:
+Stopword removal is the process of removing common words like ""the"", ""a"", ""an"", ""in"", etc. from a text because they do not provide much meaning to the text. We can use the NLTK library in Python to perform stopword removal. Below is an example of stopword removal using the NLTK library:
+
+from nltk.tokenize import word_tokenize
+tokens = word_tokenize(text)
+tokens
+
+from nltk.corpus import stopwords
+swords = stopwords.words(""English"")
+swords
+new_tokens = []
+for token in tokens:
+    if token not in swords:
+        new_tokens.append(token)
+new_tokens
+
+
+d. NER Tagging:
+Named Entity Recognition (NER) is the process of identifying named entities like people, organizations, locations, etc. in a text. We can use the spacy library in Python to perform NER tagging.
+
+e. POS Tagging:
+Part-of-speech (POS) tagging is the process of identifying the grammatical parts of speech like nouns, verbs, adjectives, etc. in a text. We can use the NLTK library in Python to perform POS tagging. Below is an example of POS tagging using the NLTK library:
+
+import nltk
+from nltk.tokenize import word_tokenize
+
+text = ""This is a book.""
+tokens = word_tokenize(text)
+tagged_tokens = nltk.pos_tag(tokens)
+print(tagged_tokens)
+
+output be like: [('This', 'DT'), ('is', 'VBZ'), ('an', 'DT'), ('book', 'NN'), ('.', '.')]"
+4/1/2023 19:45:35,chayanikamukherjee7@gmail.com,Chayanika Mukherjee,"Flat 1A/3, 88 B, G.T. Road, Uttarpara Govt. Housing Estate, Bhadrakali, Hooghly (PIN- 712232)",8116692339,71,B,B,D,A,D,A,,A,,A,,A,A,C,,,B,A,D,A,"Artificial Intelligence is a tool by which computers can 'mimic' the human intelligence in learning and problem-solving with reasoning. It has 6 subbranches or areas that are- (1) Machine Learning(ML) & Deep Learning(DL), Natural Language Processing (NLP), Speech Recognition (Speech to Text and Text to Speech), Planning, Robotics and Vision and Expert system.
+Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think like human mind and imitate the human actions. 
+
+Computational Linguistics is about understanding the spoken and written natural human languages from a computer's perspective that provides the insights to human thinking and intelligence in machines. 
+
+NLP or Natural Language Processing is a branch of Artificial Intelligence that provides a computer the capability of understanding texts and speech just like the humans. It adds machine learning models, statistics and deep learning into computational linguistics so that the rule-based modeling of a natural human language can be interpreted by the machine. ","Tokenization: Tokenization is Python refers to breaking up a bigger body of text into smaller lines or words. 
+Example- ""NLP helps computers to read and understand the meaning of human language""
+Program: 
+import nltk
+sentence1 = ""NLP helps computers to read and understand the meaning of human language""
+nltk.tokens = nltk.word_tokenization(sentence1)
+print(nltk.tokens)
+""NLP"", ""helps"" ""computer"", ""to"", ""read"", ""and"" ""understand"", ""the"", ""meaning"", ""of"", ""human"", ""language""."
+4/1/2023 19:48:18,asmita.kundu10@gmail.com,ASMITA KUNDU,"52, Block 4, 2nd Floor, Hara Mohan Ghosh Lane, Phool Bagan, Kolkata 700085",8016146940,69,B,B,D,A,B,D,D,C,B,C,B,B,B,A,B,B,B,C,B,D,"Artificial Intelligence (AI) is a field of computer science that focuses on creating intelligent machines that can perform tasks that typically require human-level intelligence. AI encompasses a range of subfields, including machine learning, computer vision, robotics, and natural language processing (NLP), among others.
+
+Computational linguistics is a subfield of linguistics that focuses on the computational aspects of the analysis, generation, and understanding of natural language. It involves using computational methods and algorithms to study and process human language. NLP, on the other hand, is a subfield of AI that focuses on the development of algorithms and models for processing and understanding natural language by computers.
+
+NLP is an important component of AI because it enables machines to interact with humans in a more natural and intuitive way. By enabling machines to understand and process human language, NLP can be used to develop chatbots, virtual assistants, and other conversational interfaces that can help people perform tasks more efficiently.
+
+AI and NLP are closely related because the development of intelligent machines requires the ability to process and understand natural language. By using NLP techniques, machines can analyze, interpret, and generate human language, which is essential for developing intelligent systems that can interact with humans in a meaningful way.
+
+Overall, AI and NLP are important fields that are advancing the development of intelligent machines that can perform a wide range of tasks. As technology continues to advance, we can expect to see more and more applications of AI and NLP in our daily lives.","a.	Web Scraping: Web scraping is the process of automatically extracting data from websites. Example:
+import urllib
+url = urllib.request.urlopen(""https://en.wikipedia.org/wiki/India"")
+data = url.read()
+print(data)
+
+from bs4 import BeautifulSoup
+soup = BeautifulSoup(data,'lxml')
+text = soup.get_text()
+print(text)
+
+b. Tokenization: Tokenization is the process of breaking text into individual words or tokens. Example: 
+from nltk.tokenize import word_tokenize, sent_tokenize
+sent = ""Hello! Good evening. How are you today?""
+words = word_tokenize(sent)
+words
+['Hello', '!', 'Good', 'evening', '.', 'How', 'are', 'you', 'today', '?']
+sents = sent_tokenize(sent)
+sents
+['Hello!', 'Good evening.', 'How are you today?']
+
+Similarly, we can use Space Tokenizer, Tab tokenizer and Line tokenizer.
+
+c. Stopword Removal: Stopwords are common words that are often removed from text during the preprocessing stage of NLP. Example: 
+
+from nltk.tokenize import word_tokenize
+tokens = word_tokenize(text)
+tokens
+
+from nltk.corpus import stopwords
+swords = stopwords.words(""English"")
+swords
+new_tokens = []
+for token in tokens:
+    if token not in swords:
+        new_tokens.append(token)
+new_tokens
+
+d. NER Tagging: Named Entity Recognition (NER) is the process of identifying named entities in text and classifying them into predefined categories. In Python, spaCy is a popular library for NER tagging. 
+
+e. POS Tagging: Part-of-Speech (POS) tagging is the process of identifying the grammatical parts of speech of each word in a sentence. NLTK provides various methods for POS tagging. Example: 
+text = '''The National Aeronautics and Space Administration (NASA /ˈnæsə/) is an independent agency of the U.S. federal government responsible for the civil space program, aeronautics research, and space research.
+
+NASA was established in 1958, succeeding the National Advisory Committee for Aeronautics (NACA), to give the U.S. space development effort a distinctly civilian orientation, emphasizing peaceful applications in space science.[5][6][7] NASA has since led most American space exploration, including Project Mercury, Project Gemini, the 1968–1972 Apollo Moon landing missions, the Skylab space station, and the Space Shuttle. NASA supports the International Space Station and oversees the development of the Orion spacecraft and the Space Launch System for the crewed lunar Artemis program, Commercial Crew spacecraft, and the planned Lunar Gateway space station. The agency is also responsible for the Launch Services Program, which provides oversight of launch operations and countdown management for uncrewed NASA launches.'''
+text
+from nltk.tokenize import word_tokenize
+from nltk import pos_tag
+tokens = word_tokenize(text)
+tokens
+tags = pos_tag(tokens)
+tags"
+4/1/2023 19:49:54,ugalemadhuri.09@gmail.com,Madhuri Nivas Ugale,"B-406/ Majestic venice, Menkar nagar next to nalanda school ,Dhayari 411041",8600936836,74,B,B,D,D,D,B,D,C,D,C,B,B,B,D,D,B,B,C,C,D,"Artificial Intelligence (AI) is a branch of computer science that deals with the creation of intelligent machines that can perform tasks that would typically require human intervention. AI models and Algorithms are designed to think, perceive, and reason like humans, analyze data, and improve performance over time without human intervention.
+AI, computational linguistics and NLP are closely related fields. AI requires NLP and computational linguistics, as the ability to process and understand language is a crucial aspect of creating intelligent machines that can communicate with humans naturally. Computational linguistics develops tools for NLP, whereas NLP provides the necessary techniques and technologies to enable machines to work with language data, thus enabling AI to interact with humans in more sophisticated ways. Overall, AI, computational linguistics, and NLP are all interested in building systems with the ability to understand and process natural language, which is a critical component of creating intelligent machines.
+","a. Web Scraping: Web scraping refers to extracting data from a website.
+url = urllib.request.urlopen('https://en.wikipedia.org/wiki/Amazon_River')
+data = url.read()
+
+b. Tokenization: Tokenization refers to splitting a text into individual words or tokens. In Python, we can use the NLTK library to perform tokenization. 
+example:
+from nltk.tokenize import word_tokenize
+
+c. Stopword Removal: Stopword removal refers to removing commonly used words (such as ""the"", ""a"", ""an"", etc.) from a text as they do not carry any significant meaning. In Python, we can use the NLTK library to perform stopword removal.
+
+d. NER Tagging: NER (Named Entity Recognition) tagging refers to identifying the entities (such as names, places, organizations, etc.) in a text. In Python, we can use the NLTK library to perform NER tagging
+
+e. POS Tagging: POS (Part of Speech) tagging refers to identifying the parts of speech (such as noun, verb, adjective, etc.) of each word in a text. In Python, we can use the NLTK library to perform POS tagging.  
+example:
+from nltk.tokenize import word_tokenize
+import nltk"
+4/1/2023 19:52:18,ananyamaity.anu99@gmail.com,Ananya Maity,"30/45, Attapara Lane, Baranagar, Kolkata- 700050",6291354090,67,B,B,D,A,D,D,C,C,A,C,B,B,A,D,,C,B,C,A,A,"""Computing Machines and Intelligence,"" a fundamental book by Alan Turing, served as a marker for the beginning of the artificial intelligence debate published in 1950, where he asked some questions, one of them being, ""Can machines think?"". Alan Turing's definition falls in the category of ""one system that acts like humans"". In other words, The replication of human intellectual functions by machines, particularly computer systems, is known as artificial intelligence.
+Natural Language Processing is a kind of AI that enables robots to comprehend and interpret human language in addition to reading it. Automated speech recognition, sentiment analysis, and text summarization are just a few of the activities that may be carried out by computers using NLP to understand spoken or written material. And computational linguistics is the application of computer science to the analysis and 
+ comprehension of written and spoken language. Both Computational Linguistics and NLP are connected to human language, as well as AI. The goals of artificial intelligence are e.g 
+ mimic human cognitive performance.","a. Web Scraping: Web scraping is the process of using robots to extract content and data from a website.
+b. Tokenization: The tokenization process means splitting bigger parts to small parts.
+from BeautifulSoup import BeautifulSoup
+import pandas as pd
+url = ""http://www.hubertiming.com/results/2017GPTR10K""
+html = urlopen(url)
+title = soup.title
+print(title)
+c. Stopword Removal: Words such as was, in, is, and, the,
+are called stop words and can be removed.
+import nltk
+from nltk.corpus import stopwords
+print(stopwords.words('english'))
+d."
+4/1/2023 19:53:33,saswata.choudhury2@gmail.com,Saswata Choudhury,"165A Prantik Pally Road Bosepukur Kasba
+Prateeti Apt, Block B flat 103
+kolkata700042",8617286970,79,D,B,D,A,C,A,D,C,B,C,A,B,B,A,B,D,B,C,C,D,"Artificial intelligence (AI) refers to the
+simulation of human intelligence in machines
+that are programmed to think like humans and
+mimic their actions. The term may also be applied to any machine
+that exhibits traits associated with a human
+mind such as learning and problem-solving. Artificial intelligence is based on the principle
+that human intelligence can be defined in a way
+that a machine can easily mimic it and execute
+tasks, from the most simple to those that are
+even more complex. The goals of artificial intelligence include
+mimicking human cognitive activity. 
+
+Computational linguistics  and Natural Language Processing are the applications of
+computer science to the analysis and comprehension of
+written and spoken language.
+
+As an interdisciplinary field, CL combines linguistics with
+computer science and artificial intelligence (AI) and is
+concerned with understanding language from a
+computational perspective.","Web Scrapping :
+Web scraping, web harvesting, or web data extraction is data scraping used for extracting data from websites.[1] Web scraping software may directly access the World Wide Web using the Hypertext Transfer Protocol or a web browser. While web scraping can be done manually by a software user, the term typically refers to automated processes implemented using a bot or web crawler. It is a form of copying in which specific data is gathered and copied from the web, typically into a central local database or spreadsheet, for later retrieval or analysis.
+
+Scraping a web page involves fetching it and extracting from it. Fetching is the downloading of a page (which a browser does when a user views a page). Therefore, web crawling is a main component of web scraping, to fetch pages for later processing. Once fetched, extraction can take place. The content of a page may be parsed, searched and reformatted, and its data copied into a spreadsheet or loaded into a database. Web scrapers typically take something out of a page, to make use of it for another purpose somewhere else. An example would be finding and copying names and telephone numbers, companies and their URLs, or e-mail addresses to a list (contact scraping).
+
+import urllib
+url = urllib.request.urlopen('https://en.wikipedia.org/wiki/Venus')
+data = url.read()
+from bs4 import BeautifulSoup
+soup = BeautifulSoup(data, 'lxml')
+
+Tokenization:
+Tokenizing text is important since text can’t be
+processed without tokenization. Tokenization
+process means splitting bigger parts to small
+parts.  You can tokenize paragraphs to sentences and
+tokenize sentences to words according to your
+needs. NLTK is shipped with sentence tokenizer
+and word tokenizer.
+from nltk.tokenize import word_tokenize
+tokens = word_tokenize(text)
+Stopwords Removal:
+You can make the learning process faster by getting rid
+of non-essential words, which add little meaning to our
+statement and are just there to make our statement
+sound more cohesive. Words such as was, in, is, and, the,
+are called stop words and can be removed.
+from nltk.corpus import stopwords
+swords = stopwords.words('english')
+clean_tokens1 = []
+for token in clean_tokens:
+    if token.lower() not in swords:
+        clean_tokens1.append(token.lower())
+NER Tagging:
+Named entities are noun phrases that
+refer to specific locations, people,
+organizations, and so on. With named entity recognition, you can
+find the named entities in your texts and
+also determine what kind of named entity
+they are.
+import spacy
+nlp = spacy.load('en_core_web_sm')
+sent = 'Mark Zukkerberg will meet Modi in December'
+text = nlp(sent)
+for ent in text.ents:
+  print(ent.text, ent.label_)
+POS Tagging:
+Part-of-speech (POS) tagging is the process of assigning
+a word to its grammatical category, in order to
+understand its role within the sentence. Traditional parts
+of speech are nouns, verbs, adverbs, conjunctions, etc.  Part-of-speech taggers typically take a sequence of
+words (i.e. a sentence) as input, and provide a list of
+tuples as output, where each word is associated with the
+related tag.
+Part-of-speech tagging is what provides the contextual
+information that a lemmatiser needs to choose the
+appropriate lemma.
+text = 'The National Aeronautics and Space Administration (NASA /ˈnæsə/) is an independent agency of the U.S. federal government responsible for the civil space program, aeronautics research, and space research.NASA was established in 1958, succeeding the National Advisory Committee for Aeronautics (NACA), to give the U.S. space development effort a distinctly civilian orientation, emphasizing peaceful applications in space science.[5][6][7] NASA has since led most American space exploration, including Project Mercury, Project Gemini, the 1968–1972 Apollo Moon landing missions, the Skylab space station, and the Space Shuttle. NASA supports the International Space Station and oversees the development of the Orion spacecraft and the Space Launch System for the crewed lunar Artemis program, Commercial Crew spacecraft, and the planned Lunar Gateway space station. The agency is also responsible for the Launch Services Program, which provides oversight of launch operations and countdown management for uncrewed NASA launches.'
+from nltk.tokenize import word_tokenize 
+from nltk import pos_tag
+tokens = word_tokenize(text)
+tags = pos_tag(tokens)
+"
+4/1/2023 19:53:33,chetanaghosh7141@gmail.com,CHETANA GHOSH,"64/5/3 RAJA RAM MOHAN ROY ROAD, BEHALA,
+NEER APARTMENT
+KOLKATA - 8",919875440025,72,D,B,D,A,C,A,D,C,B,C,A,B,B,A,B,D,B,C,C,D,"Artificial intelligence (AI) refers to the
+simulation of human intelligence in machines
+that are programmed to think like humans and
+mimic their actions. The term may also be applied to any machine
+that exhibits traits associated with a human
+mind such as learning and problem-solving. Artificial intelligence is based on the principle
+that human intelligence can be defined in a way
+that a machine can easily mimic it and execute
+tasks, from the most simple to those that are
+even more complex. The goals of artificial intelligence include
+mimicking human cognitive activity. 
+
+Computational linguistics  and Natural Language Processing are the applications of
+computer science to the analysis and comprehension of
+written and spoken language.
+
+As an interdisciplinary field, CL combines linguistics with
+computer science and artificial intelligence (AI) and is
+concerned with understanding language from a
+computational perspective.","Web Scrapping :
+Web scraping, web harvesting, or web data extraction is data scraping used for extracting data from websites.[1] Web scraping software may directly access the World Wide Web using the Hypertext Transfer Protocol or a web browser. While web scraping can be done manually by a software user, the term typically refers to automated processes implemented using a bot or web crawler. It is a form of copying in which specific data is gathered and copied from the web, typically into a central local database or spreadsheet, for later retrieval or analysis.
+
+Scraping a web page involves fetching it and extracting from it. Fetching is the downloading of a page (which a browser does when a user views a page). Therefore, web crawling is a main component of web scraping, to fetch pages for later processing. Once fetched, extraction can take place. The content of a page may be parsed, searched and reformatted, and its data copied into a spreadsheet or loaded into a database. Web scrapers typically take something out of a page, to make use of it for another purpose somewhere else. An example would be finding and copying names and telephone numbers, companies and their URLs, or e-mail addresses to a list (contact scraping).
+
+import urllib
+url = urllib.request.urlopen('https://en.wikipedia.org/wiki/Venus')
+data = url.read()
+from bs4 import BeautifulSoup
+soup = BeautifulSoup(data, 'lxml')
+
+Tokenization:
+Tokenizing text is important since text can’t be
+processed without tokenization. Tokenization
+process means splitting bigger parts to small
+parts.  You can tokenize paragraphs to sentences and
+tokenize sentences to words according to your
+needs. NLTK is shipped with sentence tokenizer
+and word tokenizer.
+from nltk.tokenize import word_tokenize
+tokens = word_tokenize(text)
+Stopwords Removal:
+You can make the learning process faster by getting rid
+of non-essential words, which add little meaning to our
+statement and are just there to make our statement
+sound more cohesive. Words such as was, in, is, and, the,
+are called stop words and can be removed.
+from nltk.corpus import stopwords
+swords = stopwords.words('english')
+clean_tokens1 = []
+for token in clean_tokens:
+    if token.lower() not in swords:
+        clean_tokens1.append(token.lower())
+NER Tagging:
+Named entities are noun phrases that
+refer to specific locations, people,
+organizations, and so on. With named entity recognition, you can
+find the named entities in your texts and
+also determine what kind of named entity
+they are.
+import spacy
+nlp = spacy.load('en_core_web_sm')
+sent = 'Mark Zukkerberg will meet Modi in December'
+text = nlp(sent)
+for ent in text.ents:
+  print(ent.text, ent.label_)
+POS Tagging:
+Part-of-speech (POS) tagging is the process of assigning
+a word to its grammatical category, in order to
+understand its role within the sentence. Traditional parts
+of speech are nouns, verbs, adverbs, conjunctions, etc.  Part-of-speech taggers typically take a sequence of
+words (i.e. a sentence) as input, and provide a list of
+tuples as output, where each word is associated with the
+related tag.
+Part-of-speech tagging is what provides the contextual
+information that a lemmatiser needs to choose the
+appropriate lemma.
+text = 'The National Aeronautics and Space Administration (NASA /ˈnæsə/) is an independent agency of the U.S. federal government responsible for the civil space program, aeronautics research, and space research.NASA was established in 1958, succeeding the National Advisory Committee for Aeronautics (NACA), to give the U.S. space development effort a distinctly civilian orientation, emphasizing peaceful applications in space science.[5][6][7] NASA has since led most American space exploration, including Project Mercury, Project Gemini, the 1968–1972 Apollo Moon landing missions, the Skylab space station, and …"

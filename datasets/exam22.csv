@@ -1,0 +1,380 @@
+Your Name (This will be printed on your certificate),Postal Address with Pin Code (You will receive your course certificate on this address),Seat Number,Q. 1),Q.2) ,Q.3) ,Q.4) ,Q.5) ,Q.6) ,Q. 7) ,Q. 8) ,Q. 9) ,Q. 10) ,Q. 11) ,Q. 12) ,Q. 13) ,Q. 14),Q. 15) ,Q. 16) ,Q. 17) ,Q. 18) ,Q. 19) ,Q. 20) ,Q. 21) ,Q. 22) 
+Akshima Baghel,"B-203, Narayan Aura, Behind BH motors, Beside Narayan Villas, Sunpharma Road, Atladara, Vadodara, Gujarat, 390012",34,A,A,D,C,B,A,C,D,B,B,A,D,A,C,A,D,D,D,C,B,"Computers cannot read our day to day language like we do. They understand only one language and that is the binary language which 1s and 0s. Through natural language processing we can make use of computers to process the language as we do and be a useful fiction in many aspects of our daily life. 
+We help the computers understand natural language by writing a program and adding necessary information of morphology, syntax, discourse, semantics and pragmatics to help the processing.
+It's used in many ways such as:
+•text to speech conversion 
+•translation 
+•interactive speech assistants etc.","a. Machine learning refers to the artificial intelligence used to do Natural Language Processing. It employs various functions that ensure smooth operation and if any obstacles are encountered, they can easily be removed. 
+b. Artificial intelligence is similar to intelligence stored in the human brain except it is in computers. Artificial intelligence can help many things for example, reviewing election results but also reviewing important examination results. It has its uses and abuses and depends on what the user intends to do with it. 
+c. 
+d. Panda are an abbreviation for Panel Data. "
+Nidhi Kumari,"Nidhi Kumari
+Tower A-102
+Ishan 3, SHARNAM APARTMENT, Opp. Shell Petrol Pump Road, Anand Nagar, Prahlad Nagar, Ahmedabad, Gujarat 380015",43,A,A,A,A,C,B,C,D,D,A,C,D,A,A,A,C,A,B,C,C,"NLP stands for Natural Language Processioning. It is the method which uses written and spoken data (or corpora) to make natural language usable by computers. Examples of NLP in real-world can be email spam detection, predictive texts, and speech recognition.
+
+NLP has various applications:
+
+1. Lexical Analysis: first phase of NLP which converts data into tokens. Steps such as sentence tokenization and word tokenization are carried out in this step.
+2. Syntax analysis: also known as parsing this steps checks syntactical structures with the use of nltk or Spacy parsers.
+3. Semantic analysis is the process of drawing meaning from text.
+4. Discourse integration deals with the context.
+5.  Pragmatic analysis logical tools with which analysts develop systematic accounts of discursive interaction.","Machine learning is the field where a model imitates humans in learning and improving its accuracy from the data it is provided. It differs from regular program in that it is provided data and output bases on which it generates a program. 
+For example: 'Dalle-mini is an ML model from Open AI which generates images when given text prompts. 
+
+Artificial intelligence is a field of study where machines are trained to mimic the problem solving, linguistic and cognitive abilities of human. Examples of this can be self driving cars and smart assistants like Alexa. 
+
+Regular expressions are a bunch of syntax or a sequence of characters mainly used for pattern matching. 
+For example: \A matches sentences starting with 'A'
+
+Pandas Library is an open source, fast python package used for data analysis and manipulation. 
+ "
+Sushrut Yardoni,"Flat no.6, 3rd floor, Vihang Apartment, Siddhatek Society, Sutarwadi, Pashan, Pune - 411021",63,A,D,B,C,C,B,C,D,D,B,A,C,A,A,B,A,A,D,D,A,"•NLP refers to the branch of computer science and more specifically, the branch of artificial intelligence or AI concerned with giving computers the ability to understand text and spoken words in much the same way human beings can.
+•NLP drives computer programs that translate text from one language to another, respond to spoken commands, and summarize large volumes of text rapidly even in real time.
+#Applications of NLP:-
+1.Chatbots:-
+Chatbots are created using Natural Language Processing and Machine Learning, which means that they understand the complexities of the English language and find the actual meaning of the sentence and they also learn from their conversations with humans and become better with time. Chatbots work in two simple steps. First, they identify the meaning of the question asked and collect all the data from the user that may be required to answer the question. Then they answer the question appropriately.
+2.Autocomplete in Search Engines:-
+ They use Natural Language Processing to make sense of these words and how they are interconnected to form different sentences.Natural Language Processing to guess what you want to ask. Search engines use their enormous data sets to analyze what their customers are probably typing when they enter particular words and suggest the most common possibilities.
+E.g:- If we enter movies on google it would further suggest different genres of the movies.
+3.Voice Assistants:-
+They use a complex combination of speech recognition, natural language understanding, and natural language processing to understand what humans are saying and then act on it. The long term goal of voice assistants is to become a bridge between humans and the internet and provide all manner of services based on just voice interaction.
+E.g:- Siri, Alexa, Google Assitant.
+4. Grammer Checkers:-
+Grammar and spelling is a very important factor while writing professional reports for your superiors even assignments for your lecturers. After all, having major errors may get you fired or failed! That’s why grammar and spell checkers are a very important tool for any professional writer. They can not only correct grammar and check spellings but also suggest better synonyms and improve the overall readability of your content.","a. Machine Learning:-
+Machine Learning (ML) is a sub-category of artificial intelligence that refers to the process by which computers develop pattern recognition, or the ability to continuously learn from and make predictions based on data, then make adjustments without being specifically programmed to do so. Machine learning is incredibly complex and how it works varies depending on the task and the algorithm used to accomplish it. However, at its core, a machine learning model is a computer looking at data and identifying patterns, and then using those insights to complete its assigned task more effectively.
+b. Artificial Intelligence:-
+Artificial intelligence refers to the simulation of human intelligence in machines that are programmed to think like humans and mimic their actions. The term may also be applied to any machine that exhibits traits associated with a human mind such as learning and problem-solving. The ideal characteristic of artificial intelligence is its ability to rationalize and take actions that have the best chance of achieving a specific goal. A subset of artificial intelligence is machine learning, which refers to the concept that computer programs can automatically learn from and adapt to new data without being assisted by humans.
+c. Regular Expressions:-
+A regular expression is a language for specifying text search strings. RE helps us to match or find other strings or sets of strings, using a specialized syntax held in a pattern. Regular expressions are used to search texts in UNIX as well as in MS WORD in identical way. Regular expressions is a sequence of characters mainly used to find or replace patterns embedded in the text.
+d. Pandas Library for Data Analysis:-Pandas is a library for working with and manipulating tabular style data. In many ways you can think of it as a replacement for a spreadsheet only it's much more powerful.A Pandas Series contains a single column of data and an index. The index is a way to reference the rows of data in the Series. Common examples of an index would be simply a monotonically increasing set of integers, or time/date stamps for time series data."
+Sarani Chowdhury,"Arun Kumar Basu Sarani Ganapatipur,Basirhat, North 24 pgs,
+P.O+PS-Basirhat,Pin-743411",51,A,B,A,C,B,B,C,D,D,D,D,D,A,D,,B,,D,D,D,"
+Natural language processing (NLP) is the ability of a computer program to understand human language as it is spoken and written -- referred to as natural language. It is a component of artificial intelligence (AI)
+Language translation:Many languages don’t allow for straight translation and have different orders for sentence structure, which translation services used to overlook. But, they’ve come a long way. With NLP, online translators can translate languages more accurately and present grammatically-correct results. This is infinitely helpful when trying to communicate with someone in another language. Not only that, but when translating from another language to your own, tools now recognize the language based on inputted text and translate it.
+Digital phone calls:This is a NLP practice that many companies, including large telecommunications providers have put to use. NLP also enables computer-generated language close to the voice of a human. Phone calls to schedule appointments like an oil change or haircut can be automated.
+Data analysis:Natural language capabilities are being integrated into data analysis workflows as more BI vendors offer a natural language interface to data visualizations. One example is smarter visual encodings, offering up the best visualization for the right task based on the semantics of the data. This opens up more opportunities for people to explore their data using natural language statements or question fragments made up of several keywords that can be interpreted and assigned a meaning. Applying language to investigate data not only enhances the level of accessibility, but lowers the barrier to analytics across organizations, beyond the expected community of analysts and software developers. 
+Text analytics:Text analytics converts unstructured text data into meaningful data for analysis using different linguistic, statistical, and machine learning techniques. While sentiment analysis sounds daunting to brands--especially if they have a large customer base--a tool using NLP will typically scour customer interactions, such as social media comments or reviews.
+NLP will improve our lives by managing and automating smaller tasks first and then complex ones with technology innovation.","A.Machine Learning:Machine learning is a tool that allows systems the ability to learn and improve automatically based upon experience. Machine learning does not need specific programming to carry out an activity. Machine learning  is the development of computer programs that can access data, and through a series of algorithms use the data to learn for itself what action should be taken based on that data.
+
+The primary object of machine learning is to allow the system to learn automatically without human intervention. This allows the system to adjust and take action accordingly.  The learning process begins with the system observing reference data and experiences based on that data. The system then begins to understand and learn what actions to take when specific patterns within a data set present themselves.
+"
+Deshana Isave ,"S7/602, Sunparadise Phase 2, Suncity Road, Sinhgad Rd, Pune - 411051",41,A,B,C,C,C,B,C,D,A,B,A,C,A,A,A,C,B,B,C,B,"Natural language processing is the process by which we enable computers to analyse, understand and make use of natural language just like humans do. Natural language processing is applied in various domains like chatbots, search engines, Voice assistants, etc. There are 5 steps involved in NLP
+ 1. Lexical analysis: it divides the whole text into words, paragraphs or sentences.
+2. Syntactic analysis: It involves the use of Grammar, word arrangements and show sthe relationship among the words.
+3. Semantic analysis: It is concerned with the literal meaning of words and phrases.
+4. Discourse Integration: It depends on meaning on the sentential level.
+5. Pragmatic analysis: It focuses on meaning in context.","A. Machine learning is the process by which algorithms are used to train computers to perform various operations. There are two types of learning: supervised and unsupervised. Supervised learning enables the machine to identify patterns in data and classify information accordingly. Unsupervised learning involves feeding different types of data into the machine and the machine identifies clusters in it and then makes a distinction between the two. It is considered to be a part of AI (Artificial Intelligence) itself.
+B. Artificial intelligence is the intelligence demonstrated by machines which is programmed by humans. Through this process computers are enabled to imitate the abilities of human intelligence like thinking, answering questions, analysing, etc. Siri, Alexa, Google Assistant etc are good examples of the same.
+C. Regular Expressions or RE is a language for specifying text search strings. It is a group of specialized characters used to perform various string operations. These characters have a different syntax altogether. It can accessed by importing the 're' module. There are also special sequences included in this. For eg: \A helps determine is specific characters are at the beginning of the string.
+D. Pandas are used to manipulate and handle data and files in Python. It is very widely used open source library which is easy to access. It is widely used in the domain of data science. This software library offers data configuration as well as documentation. "
+Shivaram Prasad Putta,"H.no - 6-14, Vil &mdl: Mirdoddi, Dist: Siddipet, State: Telangana, Pin:502108",54,A,B,B,C,C,B,C,D,B,B,D,D,A,A,A,C,B,C,C,A,"NLP is the branch of AI that provides with the capability of understanding human spoken language. It uses machine learning models, statistics and deep learning models. Computers can not understand the human language and computers uses 0s and 1s to communicate. NLP combines both linguistics and computer science to create language structure. There are 5 phases in NLP i.e 1. Lexical Analysis, 2. Syntactic analysis, 3. Semantic analysis, 4. Discourse integration, 5. Pragmatic analysis. Different applications of NLP:
+1. Chatbots.
+2. Voice assistants.
+3. Translation.
+4. Information retrieval and web search.
+5. Grammer correction.  ","a. Machine learning is part of AI, that provides computers the ability to automatically learn and improve from experience without being explicitly programmed. It takes huge data and designs models.
+b. AI is the simulation of human intelligence in machines that are programmed to think like humans and mimic human's actions. Logic, rule- based and machine learning are the major techniques.
+c. Regular expressions is a sequence of characters that helps to match and find set of other strings using a specialised syntax. With regular expressions we can find, match, replace and do many other manipulations on our data.
+d. Pandas is an open source library. It provides the high-level data manipulations and analysis tools and data structures. It can take 2 types of data structures i.e series and DataFrames. These techniques are used in various fields. series contains homogeneous data and DataFrames contains heterogeneous data. Their data is mutable."
+Shweta Gupta,"Deccan College Ladies Hostel, Yerwada, Pincode-411006",57,A,A,B,C,B,C,C,D,C,B,B,D,A,B,A,C,A,D,D,B,"Natural Language Processing is defined as the branch of Artificial Intelligence that provides computers with the capability of understanding texts and spoken words in the same way a person can.
+Human beings communicate with each other with words and text. The way in which humans communicate or share information to each other is called Natural Language  but computer cannot understand this data bcz computers know the language of 1 and 0. Therefore, NLP refers to the branch of AI which helps the computer to read and understand the human language.
+Applications of NLP:- 
+Chatbots-This is used to deal with multiple queries quickly by companies, used by most of the websites.
+Visual Assistants- Siri, Cortana, Alexa are the visual assistants. they understand the commands given to them.
+Grammar Correction- as Grammarly
+Question Answering-which is used to type in keywords to ask ques in natural language.
+Machine Translation- used by computers to translate texts from one language to another. ","Machine Learning-It is a type of Artificial Intelligence that provides computers withthe ability to learn without being explicitly programmed. It focuses on the development of computer programs that can change when exposed to new data.Ex-Image recognition, Speech recognition  (which includes voice search, voice dialing), Medical dignosis.
+Artificial Intelligence-AI is the stimulation of human intelligence by machines, especially computer systems. In general, AI system works by ingesting large amounts of labeled training data, analyzing the data for correlations and patterns and using these patterns to make predictions aboout fututre states. Ex- Google maps, Face detection and recognition, Text editors, Autocorrect, etc.
+Regular expressions-A regular expression is a special sequence of characters that helps ypu match or find the other strings or set of strings, using a specialized syntax held in a pattern. This is widely used in UNIX world. Ex-{}, [], ^a...s$"", etc
+Pandas Library for Data analysis-Pandas is a software library written for the python programming language for data manipulation and analysis. It offers data structures and operations for manipulating numerical tables and time series."
+SYOPAT,"2nd Floor, Dharinipathy Niwas, Near Aqsa Masjid, Ravindranagar, Sitaphalmandi, Hyderabad, Telangana, 500061",64,A,B,B,C,C,B,C,D,B,B,D,D,A,A,A,C,B,C,C,A,"NLP is the branch of Artificial Intelligence that enables computers with the ability of comprehending text and spoken words in the same way as a human being does. NLP combines the field of linguistics and computer science to decipher language structure and guidelines, and to create models which can comprehend, break down, and separate significant details from text and speech. 
+Applications of NLP:
+1. Chatbots:
+Chatbots are a form of artificial intelligence that are programmed to communicate with humans in such a way that they sound like humans themselves. Such as Zomato, Swiggy, Amazon etc have their own chatbots.
+2. Voice assistants:
+They use a complex combination of speech recognition, natural language understanding, and natural language processing to understand what humans are saying and then act on it. e.g. Alexa, Google voice assistant, Siri.","A. Machine Leaning is an application of AI that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. ML focuses on the development of the computer programs that can access data and use it to learn from themselves.
+B. Artificial Intelligence refers to the simulation of human intelligence in machines that are programmed to think like humans and mimic their actions. For instance, AI is used in voice assistant.
+C. Regular expressions are patterns used to match character combinations in strings. For example, a regular expression pattern is composed of simple characters, such as /abc/ to capture small letters strings.
+D. Pandas provide extended data structures to hold different types of labeled and relational data. This makes python highly flexible and extremely useful for data cleaning and manipulation. Pandas is highly flexible and provides functions for performing operations like merging, reshaping, joining, and concatenating data. For example, .merge() object is used to merge columns."
+Sri Lakshmi Niharika Silivery,"Room no. A19, Akka Mahadevi Hostel, The English and Foreign Languagues University, Hyderabad 500007",61,A,B,B,D,C,A,C,D,C,B,C,D,A,B,C,C,A,D,C,B,"Natural Language Processing is a branch of Artificial intelligence that provides computers with the capability of understanding spoken speech and written text just like humans. It incorporates machine learning models, statistics and deep learning models into computational linguistics to allow computers to understand human speech, text, intent, sentiment etc. NLP is used in Translating tools such as Google translate, in chatbots in customer service, Virtual assistants like Siri, Alexa, targeted advertising and autocorrect.","Machine Learning is an application of artificial intelligence that provides the systems with the ability to automatically learn and improve with experience without being explicitly programmed. ML focuses on computer programming that can access data and use it to learn by themselves. example. Speech recognition, image reading etc.
+
+Artificial intelligence refers to the simulation of human intelligence into machines that are programmed to think like humans and mimic their actions. It is used in video games to healthcare these days. 
+
+Regular expressions are a special sequence of characters that help you match or find other strings or a set of strings using a specialised syntax held in a pattern. eg. ^a...s$ , this regular expression can be used to look for five letter words that start with a and end in s.
+
+Pandas is an open source Python library providing high performance data manipulation and analysis tool using its powerful data structures. Python with Pandas is used in the fields of finance, economics and statistics."
+Dr. BHAVANA BHALCHANDRA BALTE,"A 202, Saurabh Co-operative society, Near Dnyanda Prashala, Karvenagar, Pune 411052",39,A,C,D,C,C,A,B,C,C,B,D,D,A,A,A,C,A,B,C,A,"NLP means the interaction between human languages and computer. It is the technology where human can train computers to do some functions. For example one can organise the data, spell check, classification of the same.and many more such works can carried out through NLP.","* Machine learning is a branch of artificial inteligence and computer scienece which mainly focuses on accuracy yang data and algorithms. E.g. GPS 
+* Artificial inteligence (AI) means simulation or adoption of human inteligence by computer system.
+*Regular Expressions -a set ofstrings that match es it. 
+$,- ends with ^ strats with etc. 
+*Panda Libraries - the open data source for using python programming for analysing data."
+Anushka Saha,"266 Ashokegarh, Sachindra Apartment flat 2A 2nd floor. Near Ashokegarh Bazaar. Kolkata 700108",36,A,C,B,A,B,A,C,D,C,B,A,D,A,A,A,C,B,B,C,A,"Natural Language Processing (NLP) is a field of artificial intelligence (AI) that enables computers to analyze and understand human language, both written and spoken. It utilizes and incorporates Machine learning models, deep learning models and and statistics into computational linguistics. Which is basically a rule based modeling of the human language in such a way that it allows the computers to understand spoken, written text and human language, intent and sentiments.
+Human language comprising of words and texts to convey information among each other is called a natural form of language however, computers cannot interpret such data as they communicate in binaries. Hence the field of NLP aids the computers to emulate and respond intelligently to human speech.
+The goal is a computer capable of ""understanding"" the contents of documents, including the contextual nuances of the language within them. The technology can then accurately extract information and insights contained in the documents as well as categorize and organize the documents themselves.
+
+Applications:
+1. Translation tools- Tools such as Google Translate,
+Amazon Translate, etc. translate sentences from
+one language to another using NLP.
+2.Chatbots: Chatbots can be found on most
+websites and are a way for companies to deal with
+common queries quickly.  eg. slush
+3.Virtual Assistants: Virtual Assistants like Siri, Cortana,
+Google Home, Alexa, etc can not only talk to you but
+understand commands given to them.
+4.Targeted Advertising: it helps generate tons of revenue for
+sellers as they can reach niche audiences at the right time. eg. Google and Instagram adverts
+5.Autocorrect: Autocorrect will automatically correct any
+spelling mistakes you make, apart from this grammar
+checkers also come into the picture which helps you write
+flawlessly. eg. grammarly
+6.Information retrieval & Web Search: Google, Yahoo,
+Bing, and other search engines base their machine
+translation technology on NLP deep learning
+models. It allows algorithms to read text on a
+webpage, interpret its meaning and translate it to
+another language.
+7. Grammar Correction: NLP technique is widely used by word processor
+software like MS-word for spelling correction &
+grammar check.
+8. Question Answering: Type in keywords to ask Questions in Natural
+Language. eg.google
+9. Text Summarization- The process of summarising important
+information from a source to produce a
+shortened version. eg quillbot
+10. Machine Translation:Use of computer applications to translate text or
+speech from one natural language to another.. eg. google translate","1. Machine learning: 
+Machine learning (ML) is a type of artificial intelligence (AI) that allows software applications to become more accurate at predicting outcomes without being explicitly programmed to do so. Machine learning algorithms use historical data as input to predict new output values.
+
+Recommendation engines are a common use case for machine learning. Other popular uses include fraud detection, spam filtering, malware threat detection, business process automation (BPA) and Predictive maintenance. Classical machine learning is often categorized by how an algorithm learns to become more accurate in its predictions. There are four basic approaches: supervised learning, unsupervised learning, semi-supervised learning and reinforcement learning. The type of algorithm data scientists choose to use depends on what type of data they want to predict.
+
+2. AI: 
+The term ""Artificial Intelligence"" refers to the simulation of human intelligence processes by machines, especially computer systems. It also includes Expert systems, voice recognition, machine vision, and natural language processing (NLP).
+
+AI programming focuses on three cognitive aspects, such as learning, reasoning, and self-correction.
+
+Learning Processes
+Reasoning Processes
+Self-correction Processes
+examples: 
+Google Maps and Ride-Hailing Applications
+Face Detection and recognition
+Text Editors and Autocorrect
+Chatbots
+E-Payments
+Search and Recommendation algorithms
+Digital Assistant
+Social media
+Healthcare
+Gaming
+
+3: Regular Expression: A regular expression is a special sequence of characters that helps you match or find other strings or sets of strings, using a specialized syntax held in a pattern. Regular expressions are widely used in UNIX world.
+
+The Python module re provides full support for Perl-like regular expressions in Python. The re module raises the exception re.error if an error occurs while compiling or using a regular expression.
+
+We would cover two important functions, which would be used to handle regular expressions. But a small thing first: There are various characters, which would have special meaning when they are used in regular expression. To avoid any confusion while dealing with regular expressions, we would use Raw Strings as r 'expression'.
+example: ""planet$"",""[a-m]"",""^hello""
+
+4: Pandas Library for data analysis: 
+Pandas is an open-source software library for analyzing, cleaning, exploring, and manipulating data, built on top of the Python programming language. The main data structures in Pandas are the Series and the DataFrame (similar to R's data frame). A Pandas Series one-dimensional labelled array of data and an index. All the data in a dataFrame Series is of the same data type. The pandas DataFrame is a two-dimensional tabular style data with column and row indexes. The columns in DataFrame are made up of Series objects . The pandas module allows developers to import data from various file formats (csv, json, sql, xls, etc.) and perform data manipulation operations, including cleaning and reshaping the data, summarizing observations , grouping data, and merging multiple datasets.
+example:  loc() method"
+Sohini Dasgupta,"Address : 36, R. C. Ghosal Lane
+City : Konnagar
+District : Hooghly
+State : West Bengal
+Pin Code : 712235",58,A,D,B,C,C,A,C,D,C,B,B,D,A,B,A,C,A,D,D,B,"Natural Language Processing is a the ability of computer program to describe the interaction between human languages and computer. It contains syntactic analysis, morphological analysis, Semantic analysis, pragmatic and discourse analysis.",Machine learning is a branch of artificial language. Artificial language are created by preplanned. For example Esperanto. 
+Shweta,"Ward-9, Harpur Allowth East, Musrigharari, Samastipur, 848101",56,A,B,B,C,C,B,C,D,D,B,D,D,A,C,A,C,B,B,C,A,"Natural Language processing is a branch of artificial intelligence which gives the ability to the computer to read, write and derive meanings from human language data and interact in the same way as humans do. Some of the applications of NLP includes the conversation between computer and humans in a human language to resolve their queries such as in Chatbots. It is used to make the computer do several activities such as through Alexa and Siri.","Machine learning - It is the application of artificial intelligence which helps the computers to learn from the experience and improve themselves without being explicitly programmed. An example for such is to give the direct instruction to the computer to look for a pattern in a given data and understand from it to make better decisions in future.
+
+Artificial Intelligence - It is the simulation of human intelligence in machines with the help of programming to make it behave like a human and also do actions like them. A simple example could be the programming of computers to do the sum for humans or speak in the language of humans.
+
+Regular Expressions- it is a sequence of characters which is used to find or match the strings with the help of patterned specialised syntax. For example- with the help of regular expressions such as '^' , we can find if a word starts with a letter.
+
+Pandas Library for Data Analysis- It is an open source library which helps in manipulating and analysing the high-performance data with the help of tools which is made of powerful data structures. For example- one of the tool of panda library such as pdf.read_csv can be used to read any given type of file and manipulate it."
+Reema Prakash,"Prakasham, Ezhukalari, Pathappiriyam PO, Manjeri via, Malappuram District, Kerala 676123",48,A,B,B,C,C,B,C,D,D,B,D,D,B,A,C,C,B,C,C,C,"Natural language processing is a branch of artificial intelligence that applies computational techniques to analyze and synthesize natural language and speech. In this context, natural language means the language of humans, as opposed to the languages understood by machines (e.g. code). This enables computers to understand humans. Human language is fraught with ambiguity and idiosyncrasies, which render it inaccessible to machines- lending to the need for natural language processing.
+
+Some common examples where we see natural language processing in our day to day lives include any and all digital translator tools that we use to go between languages (for example, Google translate). When we interact with any digital assistant (Siri, Cortana, etc.) we are also seeing NLP in action- because a process is converting our questions, comments, and queries into a set of instructions that can be understood by the program underlying the digital assistant. Yet another example is voice operated GPS.
+","a. Machine Learning: current day machine learning is a branch of aritificial intellgence that is devoted to the understanding and building of methods so that machines can imitate human learning. The end goal of machine learning is to create a machine that learn experientially like a human, without having to be programmed. Significant strides have been made in machine learning especially in the fields of image recognition, speech recognition, medical diagnosis etc. 
+
+b. Artificial Intelligence is that subfield of computer science that aims to create machines that can mimic or simulate human intelligence. We see examples of artificial intelligence in chatbots on various websites that provide assistance on service in a conversational fashion."
+Sayani Sarkar,"26, AA, Pai Road Belgharia , Kolkata 700056 ",52,A,B,B,C,C,B,B,D,C,B,A,D,A,A,C,A,B,A,D,B,"Natural language processing (NLP) is the field of computer science, the field of artificial intelligence or AI—concerning providing computers the capacity to comprehend text and spoken words in the same manner that humans do.","a) Machine learning is a subfield of artificial intelligence (AI) and computer science that uses data and algorithms to mimic how humans learn, gradually improving its accuracy, foe example, image recognition.
+b)Artificial intelligence (AI) is the competence of a computer or a robot controlled by a computer to do tasks that normally necessitate people intelligence and judgement, for example Automated financial investing.
+c) Regular expressions are combinations of special character operators, which are symbols that control the search, that you can use to construct search strings for advanced find and/or replace searches.
+d)Pandas (Python data analysis) is an essential component of the data science life cycle. Along with NumPy in matplotlib, it is the most popular and commonly used Python package for data research."
+Subham Kumar,"353-C, 
+4th floor, 
+Near Gurudwara DDA flats
+Fakkarwada Mohalla,
+Munirka Village,
+New Delhi - 110067",62,A,C,B,B,C,C,C,B,C,B,B,D,A,A,A,C,B,B,C,D,"Natural Language Processing is one of the branches of Artificial Intelligence which enables the computer to aquire human-like competence to deal with languages. It includes understanding of the spoken and written text.  It encompasses machine learning models, statistics, and deep learning models into computational linguistics which is rule based desigining of the human language to make under stand text, and spoken words, and understand human languages.
+Now a days with the huge jump in the field of AI based technology which came out of the urge of the humans to make machine interact with them the same way humans do. for accomplising this perticular task NLP plays a huge role. It is used in many areas in the large scale like:-
+
+1) Translation-  There are many tools whic enables humans to use machine to translate where NLP is vastly use to introduce human like capabilty to the machine. some famous tools are Google translate, Amazone Translate etc.
+
+2) Virtual assistance- Siri ,Cortana, Google home, Alexa are enabled by NLP to not only talk to humans but also understand the commands by them
+
+3) Grammar correction- now days there are many platform like Grammarly   which are using NLP for the grammar correction.
+
+4)Machine Translation - use of computer application to translate text from one natural language to another one.","a) Machine learning (ML) is a type of artificial intelligence (AI) that allows software applications to become more accurate at predicting outcomes without being explicitly programmed to do so. Machine learning algorithms use historical data as input to predict new output values.
+The machine learning process begins with observations or data, such as examples, direct experience or instruction. It looks for patterns in data so it can later make inferences based on the examples provided. The primary aim of ML is to allow computers to learn autonomously without human intervention or assistance and adjust actions accordingly.
+Machine learning is important because it gives enterprises a view of trends in customer behavior and business operational patterns, as well as supports the development of new products.
+b) Artificial intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think like humans and mimic their actions. The term may also be applied to any machine that exhibits traits associated with a human mind such as learning and problem-solving. The ideal characteristic of artificial intelligence is its ability to rationalize and take actions that have the best chance of achieving a specific goal. A subset of artificial intelligence is machine learning, which refers to the concept that computer programs can automatically learn from and adapt to new data without being assisted by humans.
+C. Regular Expressions
+A regular expression is a method used in programming for pattern matching. Regular expressions provide a flexible and concise means to match strings of text. For example, a regular expression could be used to search through large volumes of text and change all occurrences of ""cat"" to ""dog"".
+
+Regular expressions are used for syntax highlighting systems, data validation and in search engines such as Google, to try to determine an algorithmic match to the query a user is asking. Regular expressions are also known in short form as regex or regexp.
+
+d) Python Pandas is defined as an open-source library that provides high-performance data manipulation in Python. This tutorial is designed for both beginners and professionals. It is used for data analysis in Python and developed by Wes McKinney in 2008. Our Tutorial provides all the basic and advanced concepts of Python Pandas, such as Numpy, Data operation and Time Series. Data analysis requires lots of processing, such as restructuring, cleaning or merging, etc. There are different tools are available for fast data processing, such as Numpy, Scipy, Cython, and Panda. But we prefer Pandas because working with Pandas is fast, simple and more expressive than other tools."
+Zam Ngaih Cing,"Brahmaputra block, Department of Linguistics, Central University of Kerala, Tejaswini hills, Periye, Kasaragod, Kerala- 671316",65,A,B,D,C,D,A,B,D,A,C,A,D,A,A,A,C,A,B,C,D,"Natural Language Processing (NLP) is a branch of Artificial Intelligence (AI) that deals with computers and their capability to understand text and spoken language as human does.
+The applications of NLP are:
+(i) lexical analysis (or morphological processing)- It deals with sentences breaking into words or tokens
+(ii) syntactic analysis- It deals with whether sentences are well-formed or not
+(iii) semantic analysis- It deals with the literal meanings of each word and their arrangments
+(iv) discourse integration- It checks whether the sentences occurring before and after have an effect on the current sentence
+(v) pragmatic analysis- It combined with discourse integration for interpretation and analysis of the sentences","a. Machine learning: It is an application of Artificial intelligence. It focuses on the development of computer to access data and also to provide self learning for the program.
+
+b. Artificial Intelligence: It is the training or inputting of human intelligence in machine or computer so that they are programmed to think and function like humans. It is limited to the input that is given to the machine as they cannot be compared with humans.
+
+c. Regular expressions: It is a sequence of characters that deals with strings or sets of strings. It is usually used in search pattern. 
+Examples are: ^, \, $
+
+d. Panda is an open source Python library which is used to analyse data. It deals with data structures in two ways: series and data frame (df)"
+Sanskar Manoj Janorkar,"H.N. 24, A-Vasundhara Society, Ayachit Nagar, Datta chauk, near Nirmala convent, Gangapur road, Nashik-422005",50,A,D,A,C,D,A,D,D,B,B,C,D,A,D,B,D,C,D,C,A,"Natural language processing (NLP) is the ability of computer to understand human written and spoken language. It is one of the major application of Artificial Intelligence (AI).
+NLP have various beneficiary applications which can be easier to the humans, Email filters - in which the spam and ham emails can differentiate.
+Smart assistance - like Siri of Apple, Alexa of Amazon which listenes to our verbal orders, recognize it and in response follow the indications or do our desired work.
+Relevant results - just like in Google search we get various recommendation related to our search.
+Voice typing - Google voice typing is famous one example of NLP which automatically types by recognizing the perticular language, words, punctuation at a close instance with the help of NLP.","Machine learning - It is a branch of artificial intelligence and computer science which deals with the use and processing of data and algorythms in such a way that human perceives the knowledge. 
+"
+AYSARJA SAHA,"30/1, Goabagan Lane,
+Kolkata- 700006.",38,A,B,B,C,C,B,C,D,C,B,B,D,A,D,B,C,A,B,C,A,"Natural Language Processing is defined as the branch of Artificial Intelligence that provides computers with the capability of understanding text and spoken words in the same way a human being can.  
+Applications of NLP:-
+a) Translation tools - translate from one language to another using NLP such as google translate, amazon translate.
+b)Virtual Assistants - not only talk but also understands the commands given to them such as Siri, Alexa.
+c)Information retrieval and web search- Google, Yahoo and other search engines base their machine translation technology on NLP deep learning models.
+d)Grammar correct- NLP is widely used by word processor software like MS word for spelling correction and grammar check.","a) Machine Learning -  It is an app of Artificial Intelligence that provide systems the ability to automatically learn and improve from experience without being explicitly programmed. For e.g. Image recognition, Speech Recognition.
+b)Artificial Intelligence -  It refers to the simulation of human intelligence in machines that are programmed to think like humans and mimic their actions. For e.g. Social media monitoring, marketing chatbots.
+c) Regular expression - It is a sequence of characters that forms a search pattern.
+For e.g. :-
+import re
+string=input('enter the text:')
+result= re.search ('^a',string)
+if result:
+    print('found')
+else:
+    print('not found')
+d)Pandas Library for Data analysis- It provides high performance data manipulation and analysis tool using its powerful data structures. It deals with two data structures:- Series and Data frame."
+Shrestha Gudaba,"4/3k/298, Sarsuna Satellite Township, Kolkata-700061",55,A,B,B,C,C,B,C,D,A,B,B,D,A,C,B,C,A,D,C,B,"NLP is a branch of artificial intelligence that provides human like processing of data using statistics and learning models.
+NLP used for
+machine learning
+statistical inference
+translation. eg google translate
+chatbots eg. online stores for customer support
+autocorrect eg. google keyboard
+target advertising eg. Google ads
+Virtual assistant. eg. Alexa","a. Machine learning is the application of artificial intelligence where there is no explicit programming involving observation, direct experience or instruction
+b.Artificial Intelligence carries the goal of mimicking human cognitive activity and execute tasks involving learning and problem solving.
+c. Regular expressions are a special set of characters widely used in UNIx world to match a string or a set of strings using specialised syntax held in pattern
+d. Pandas is a library that can be imported in Pyhton and it is used for data analysis in the form of tables."
+Souvik Sengupta,"48, Seth Bagan Road, Dum Dum, Kolkata - 700030 Landmark - Milan Sangha Club",60,A,B,B,D,C,B,C,D,A,B,D,D,A,C,B,C,A,D,C,B,"Natural Language Processing(NLP) is defined as the branch of Artificial Intelligence that provides computers with the capability of understanding text and spoken
+words in the same way a human being can.It incorporates machine learning models, statistics, and deep learning models into computational linguistics i.e.rule-based modeling of human language to allow computers to understand text, spoken words and
+understands human language, intent, and sentiment.
+The application of NLP can be used for the following:
+1. Syntactic Analysis
+2. Pragmatic Analysis
+3. Discourse Integration
+4. Lexical Analysis
+5. Pragmatic Analysis","Machine Learning
+Machine learning is an application of artificial intelligence (AI)
+that provides systems the ability to automatically learn and
+improve from experience without being explicitly
+programmed. Machine learning focuses on the development
+of computer programs that can access data and use it learn for
+themselves.
+Artificial Intelligence
+Artificial intelligence (AI) refers to the
+simulation of human intelligence in machines
+that are programmed to think like humans and
+mimic their actions.
+Pandas Library for Data Analysis
+Pandas is an open source Python Library providing high performance data manipulation and analysis tool using its powerful data structures. There are two types of data structures, 1. Series and 2. DataFrame."
+CIIN MUAN KIM,"Fl/No.B4A, Pragjyotika Greens Apartment, Bagharbari, Panjabari Rd, Opp. Children's Park, Guwahati, Assam. Pin: 781037",40,A,D,B,A,C,C,B,A,B,D,B,D,A,C,A,D,B,B,C,B,"NLP is defined as the branch of AI that provides computers with the capability of understanding texts and spoken words in the same way a human being can. It incorporates machine learning, statistics and deep learning models into computational linguistics. The applications of NLP are : Interlingual Translations, summary of a text, voice interaction with computer, understanding speech, information extraction, access to information, understanding texts, computer conversations, question and answer systems, foreign language reading and writing, development of writing mistakes, find and replace, spelling correction, reading printed texts and correcting errors. Eg : Translation tool (google translate, amazon translate etc), Chatbots (dealing with common queries), Virtual Assistants (siri, cortana, google home, alexa), targeted advertising (by generating ads online), auto-correct, information retrieval and we search (google, yahoo, bing and other search engines), grammar correction, answering questions, text summarization, machine translation. ","a). Machine learning is a growing technology which enables computers to learn automatically from past data. Machine learning uses various algorithms for building mathematical models and making predictions using historical data or information. Currently, it is being used for various tasks such as image recognition, speech recognition, email filtering, Facebook auto-tagging, recommender system, and many more.
+
+b). Artificial intelligence is a wide-ranging branch of computer science concerned with building smart machines capable of performing tasks that typically require human intelligence. Artificial intelligence allows machines to model, and even improve upon, the capabilities of the human mind. From the development of self-driving cars to the proliferation of smart assistants like Siri and Alexa, AI is a growing part of everyday life. As a result, many tech companies across various industries are investing in artificially intelligent technologies.
+
+c). A regular expression (or RE) specifies a set of strings that matches it; the functions in this module let you check if a particular string matches a given regular expression (or if a given regular expression matches a particular string, which comes down to the same thing).
+Regular expressions can be concatenated to form new regular expressions. Thus, complex expressions can easily be constructed from simpler primitive expressions. 
+
+d). Pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language. It provides highly optimized performance with back-end source code purely written in C or Python. The name Pandas is derived from the word Panel Data, an Econometrics from Multidimensional data. Pandas deal with two data structures: series and data frame. These data structures are built on top of Numpy array, which means they are fast."
+Sayanika Dutta ,"54/2/5 Andul Road, Shiva Appartment, First floor, Howrah-711109",53,A,B,B,C,C,B,C,D,C,B,C,D,A,A,B,C,A,A,C,A,"Natural Language Processing or NLP can be explained as the branch of Artificial intelligence which provides the computer with the ability of understanding spoken words in the same way that a human being can. It incorporates machine learning models, statistics, and deep learning models into computational linguistics, i.e. rule-based modeling of human language to allow computers to understand text, spoken words and understand human language, intent and sentiments. 
+The applications of NLP include: 
+1. Translation tools: Tools to translate sentences in one language to another. For example, Google Translate, Amazon Translate. 
+2. Chatbots: The chatbots can be found on various websites and are a way for companies to deal with common queries quickly. 
+3. Virtual assistants: They can talk to you and understand commands given to them. Example: Siri, Alexa.
+4. Targeted Advertising: These are the software which show you products that you talk or search about. 
+5. Autocorrect: They will automatically correct spelling error like the grammar correctors which help you to write flawlessly. 
+6. Web search and information retrieval: Yahoo, Google base their machine translation technology on NLP deep learning models which lets the algorithm reads texts on webpage and interpret in other languages. 
+7. Grammar correction: NLP technique used by word processor software like MS Word for grammar check and spelling errors. 
+8. Question Answering: Type in keywords to ask Questions in natural Language.
+9. Text summarisation: The process of summarising critical information from source to produce a shorter version. 
+10. Machine translation: Use of computer applications to translate text or direct from one language to another. ","1. Machine learning: It is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it to learn themselves. 
+2. Artificial Intelligence: AI or artificial intelligence refers to the simulation of human intelligence in machines that are programmed to think like human and mining their actions. The term is also applied to any machine that exhibits treasures associated with a human mind such as learning and problem solving. 
+3. Regular Expression: A regular expression is a special sequence of characters that helps the user to match or find other strings or sets of strings, using a specialized syntax held in pattern. It is basically a sequence of characters that defines a search pattern. For example ^a...s$, this code defines any 5-letter string that starts with a and ends with s. 
+4. Pandas Library for Data Analysis: It provides high performance data manipulation and analysis tools using its powerful data structures. It deals with two data structures: Series and Data Frame. "
+Soumyatarini Mishra,"Mishra Sahi, AT/Po- Ganeswarpur, Via- Gop, Dist- Puri, Odisha - 752110 ",59,A,B,B,C,C,C,C,D,C,B,C,D,A,A,A,C,B,B,C,A,"Natural Language Processing or NLP is basically a branch of AI. It provides machines with the ability to learn and process natural human languages. 
+Natural Language Processing is very important and is used in many fields and areas. Certain applications of NLP include summarisation of given text, interlingual translation, voice interactions with computers, creating question answer systems, etc. 
+Some famous examples of NLP can be seen in virtual AI assistants like Siri, Alexa, Google chatbots, etc. 
+Autocorrect also uses NL where it predicts the correct responses of misspelt words and based on previous usage suggests predictions. 
+We can see multiple tools online where the websites offer to summarise longer bodies of text or paraphrasing given text. This is also an application of NLP.  
+NL can also be used for targeted advertising. Targeted advertising is those situations when we search something on some search engines, say a good phone charger, and then start seeing advertisements for it everywhere.
+","MACHINE LEARNING- It is an application of AI which not only allows the machine to learn but also provides them with the ability to learn automatically, observe previous learned patterns and learn for it without having to be programmed specifically for it.
+
+ARTIFICIAL INTELLIGENCE- To put it plainly, Artificial Intelligence or AI is a way of simulating human intelligence in machines. These machines are trained to think like humans. The major principle behind AI is that human intelligence can be broken down and made digestible so that machines may learn it. The aim of AI is to mimic human cognitive behaviours.
+
+REGULAR EXPRESSIONS- Regular Expressions can be described as a unique set of characters that can be used to find patterns in strings (string datas) and find other strings that share the same pattern. RegEx  has certain special patterns that help in finding matches. 
+For example: Periods (‘..’) help in finding strings that contain at least a certain number of characters. 
+
+PANDAS LIBRARY FOR DATA ANALYSIS- Pandas is a Python library that provides tools for data analysis and manipulation easily. It was developed by W McKinney in 2008.
+"
+Onkar Avinash Salunke,"Plot No. 20, Shrileela Bungalow, Gurukul Housing Society, Shivnagar, Bhigwan Road, Baramati- 413102.",44,A,B,B,C,C,B,C,D,C,C,A,D,A,B,A,C,B,B,D,B,"Natural Language Processing is a branch of Artificial Intelligence which helps users by providing computers ability of understanding text and speech like humans. 
+NLP  combines linguistics with computer science and artificial intelligence (AI) and is concerned with understanding language from a computational perspective. 
+Applications of NLP:
+1. Clean text( Removing the unwanted text)
+2.Correction of spellings.
+3. Finding the synonyms and antonyms and various parts of speech of a particular word.
+4.Anaysing the speech and convert it to text format.
+5. Get answers to relevant questions. (Eg. Google assistant etc.)
+6.Access and process information from a particular file/website.
+7.Getting summary of a long text.
+8.Understanding foreign languages and using them as per requirement.
+9.Intentional Advertising, where we search or speak about something and we get advertizes regarding our context.
+
+","Machine Learning : It is a method used for Natural Language Processing. Machine Learning can be defined as a program or algorithm that analyses data and predicts the output keeping the previous results in mind.
+E.g: To filter out Spam and Unspam emails.
+
+Artificial Intelligence: 
+Artificial Intelligence can be defined as a machine performing human like behaviour. The machines think like humans and respond back according to the way it is trained.
+e.g Robot Sophia  
+
+
+Regular Expressions: 
+It is defined as a sequence of characters which is used to search the desired patterns in our given input. 
+The patterns defined using RegEx can be used to match against a string or digit.
+Eg. pattern = '^a...s$'
+We have different methods like match(), search() etc to compare with our data.
+
+Pandas Library:
+Pandas is a prebuild library in python. It is an open source library. It provides data manipulation and analysis tools using its data structure.
+It is used for loading, preparing, manipulating and analysing data.
+We can import a file, read it and then d analysis over it. We can use different string functions to check whether the data is in the form we desire. We can us read function to read the file.
+
+"
+Poulami Chakraborti ,"19/2 Einstein Avenue, B - Zone, Durgapur -713205, West Bengal",45,A,B,B,D,C,B,C,C,C,B,A,D,A,C,B,C,B,D,C,B,"Natural Language Processing or NLP is a branch of AI that involves computational analysis of human languages or natural languages. Human languages function at different levels, viz., phonological, morphological, syntactic, semantic and pragmatic, etc. NLP is used to analyse these different levels using different computational models. It involves the use of programs like Stemmers, Tokenizers, Interpreters etc. which analyze human languages on the basis of the data that is fed into the system. Some of the important present day applications of NLP include voice interaction facilitated by speech to text data analysis, language translation, meaning extraction etc. ","Regular Expressions are specialized cgaracter sequences that help in data analysis using Python qnd similar programming languages
+Eg. ^a is a regex which tests the presence of the mentioned string in the data
+
+Artificial Intelligence aims to mimic and implement the mechanisms of the human brain or human intelligence to create intelligent computing systems. An example is the recent effort in NLP to enable machines to read / interpret and generate output in human languages.
+
+Machine Learning refers to the sub branch or component of AI which aims to enable computer 
+systems to access data and learn for themselves, without human intervention.
+
+Pandas Library for Data Analysis is an open source library in Python where different kinds of structured datatypes like Series, Dataframes etc. can be used for analysis. It can be especially useful for linguistic analysis and dictionary building, extracting different kinds or chunks of data from a large dataset for interpretation, translations , etc.
+
+"
